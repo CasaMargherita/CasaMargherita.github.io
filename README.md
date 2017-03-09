@@ -31,6 +31,7 @@
   * Aggiornati 3 plugin
   * Aggiornato il tema
   * Eseguito backup database
+  * Richiesta validazione scheda attività a [Google](https://www.google.it)
 
 ## v0.3.6 / 2017-03-01
 
