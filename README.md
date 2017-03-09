@@ -12,9 +12,16 @@
 
 ### Terminare
 
+## v0.4.0 / 2017-03-03
+
+  * Aggiornato [Wordpress](http://wordpress.org) da v4.6.4 a v4.7.2
+  * Aggiornati 3 plugin
+  * 
+
 ## v0.3.6 / 2017-03-01
 
   * Avvenuto trasferimento dominio + database (Aruba)
+  * Aggiunto [ChangeLog](/README.md)
 
 ## v0.3.5 / 2017-02-28
 
