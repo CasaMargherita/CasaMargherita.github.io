@@ -14,6 +14,7 @@
 
 ## v0.4.2 / 2017-03-07
 
+  * Installazione e configurazione certificato di sicurezza [SSL](https://www.casamargheritafasano.it)
   * Installazione e configurazione modulo di contatto
   * Installazione e configurazione software gestione prenotazioni
 
