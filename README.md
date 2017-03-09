@@ -12,11 +12,24 @@
 
 ### Terminare
 
+## v0.4.2 / 2017-03-07
+
+  * Installazione e configurazione modulo di contatto
+  * Installazione e configurazione software gestione prenotazioni
+
+## v0.4.1 / 2017-03-06
+
+  * Aggiunto [Feed Rss](https://www.casamargheritafasano.it/feed/rss)
+  * Aggiunto robots.txt
+  * Corretta ora locale (UTC +1)
+  * Installazione e configurazione pixel di monitoraggio
+
 ## v0.4.0 / 2017-03-03
 
   * Aggiornato [Wordpress](http://wordpress.org) da v4.6.4 a v4.7.2
   * Aggiornati 3 plugin
-  * 
+  * Aggiornato il tema
+  * Eseguito backup database
 
 ## v0.3.6 / 2017-03-01
 
