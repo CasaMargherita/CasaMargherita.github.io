@@ -56,7 +56,7 @@
 
   * Invio prima documentazione per trasferimento dominio su nuovo account
 
-## v0.3.0 / 2017-02-03
+## v0.3.0 / 2017-02-03 ([@Giando](https://GitHub.com/Giando))
 
   * Creato nuovo account [Aruba](http://www.aruba.it) per trasferimento dominio per completa gestione sito
 
