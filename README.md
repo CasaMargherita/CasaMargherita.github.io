@@ -6,11 +6,24 @@
 
 ### Correzioni di sviluppo
 
+  * Risolvere problema Giugno/Luglio tradotti non vengono visualizzati nel calendario
+
 ### Miglioramenti del sito
 
 ### Miglioramenti minori
 
 ### Terminare
+
+  * Traduzione software gestione prenotazioni
+
+## v0.4.3 / 2017-03-10
+
+  * Aggiornato [Wordpress](http://wordpress.org) da v4.7.2 a v4.7.3
+  * Impostazione prezzi di tutto il calendario 2017
+  * Installazione e configurazione plugin antispam [Akismet](https://akismet.com)
+  * Pubblicati "[Termini & Condizioni](https://www.casamargheritafasano.it/prenotazioni/termini-condizioni/)"
+  * Settaggio back-end in lingua italiana
+  * Traduzione calendario prenotazioni in italiano
 
 ## v0.4.2 / 2017-03-07
 
@@ -23,7 +36,7 @@
   * Aggiunto [Feed Rss](https://www.casamargheritafasano.it/feed/rss)
   * Aggiunto robots.txt
   * Corretta ora locale (UTC +1)
-  * Installazione e configurazione pixel di monitoraggio
+  * Installazione e configurazione pixel di monitoraggio di Google
 
 ## v0.4.0 / 2017-03-03
 
