@@ -6,15 +6,48 @@
 
 ### Correzioni di sviluppo
 
-  * Risolvere problema Giugno/Luglio tradotti non vengono visualizzati nel calendario
-
 ### Miglioramenti del sito
 
 ### Miglioramenti minori
 
 ### Terminare
 
-  * Traduzione software gestione prenotazioni
+  * Traduzione software gestione prenotazioni in italiano
+
+## v0.5.0 / 2017-04-04
+
+  * 
+
+## v0.4.9 / 2017-04-02
+
+  * Fix: Modifica software gestione prenotazioni per calcolo prezzo settimana corretto
+
+## v0.4.8 / 2017-03-31
+
+  * Richiesta rimozione sottocategoria "Ranch per vacanze" da Google
+  * Aggiunta [Mappa](https://goo.gl/maps/4czT1f5KEN52)
+
+## v0.4.7 / 2017-03-25
+
+  * Iscrizione a [Instagram](https://www.instagram.com/CasaMargheritaF)
+  * Iscrizione a [Twitter](https://twitter.com/CasaMargheritaF)
+
+## v0.4.6 / 2017-03-21
+
+  * Ricevuto codice d'attivazione attività da Google
+  * Registrazione a [Google+](https://plus.google.com/115675393379545634810)
+  * Inserimento attività nel network degli inserzionisti di Google
+  * Aggiunta [favicon.ico](https://www.casamargheritafasano.it/favicon.ico)
+
+## v0.4.5 / 2017-03-14
+
+  * Fix: Risolto problema Giugno/Luglio tradotti non vengono visualizzati nel calendario
+  * Aggiunto 2° recapito telefonico
+  * Traduzione software gestione prenotazioni in italiano
+
+## v0.4.4 / 2017-03-13
+
+  * Traduzione software gestione prenotazioni in italiano
 
 ## v0.4.3 / 2017-03-10
 
@@ -23,7 +56,7 @@
   * Installazione e configurazione plugin antispam [Akismet](https://akismet.com)
   * Pubblicati "[Termini & Condizioni](https://www.casamargheritafasano.it/prenotazioni/termini-condizioni/)"
   * Settaggio back-end in lingua italiana
-  * Traduzione calendario prenotazioni in italiano
+  * Traduzione software gestione prenotazioni in italiano
 
 ## v0.4.2 / 2017-03-07
 
