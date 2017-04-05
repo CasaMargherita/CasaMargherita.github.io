@@ -16,11 +16,11 @@
 
 ## v0.5.0 / 2017-04-04
 
-  * 
+  * Fix: Modifica software gestione prenotazioni per calcolo prezzo settimana corretto (da mezza giornata a mezza giornata)
 
 ## v0.4.9 / 2017-04-02
 
-  * Fix: Modifica software gestione prenotazioni per calcolo prezzo settimana corretto
+  * Fix: Modifica software gestione prenotazioni per calcolo prezzo settimana corretto (da mezza giornata a mezza giornata)
 
 ## v0.4.8 / 2017-03-31
 
@@ -37,6 +37,7 @@
   * Ricevuto codice d'attivazione attività da Google
   * Registrazione a [Google+](https://plus.google.com/115675393379545634810)
   * Inserimento attività nel network degli inserzionisti di Google
+  * Aggiunta P.IVA 02511660744
   * Aggiunta [favicon.ico](https://www.casamargheritafasano.it/favicon.ico)
 
 ## v0.4.5 / 2017-03-14
