@@ -12,7 +12,14 @@
 
 ### Terminare
 
-  * Traduzione software gestione prenotazioni in italiano
+  * Traduzione software gestione prenotazioni in italiano (completo al 50%)
+
+## v0.5.1 / 2017-04-05
+
+  * Fix: Integrato [Video YouTube](https://youtu.be/ZbGqc4U3tWs) in Home
+  * Brandizzazione di tutte le foto
+  * Registrazione, attivazione e configurazione 2° dominio [CasaMargheritaFasano.com](http://www.CasaMargheritaFasano.com)
+  * Upload di tutte le foto brandizzate
 
 ## v0.5.0 / 2017-04-04
 
@@ -24,7 +31,7 @@
 
 ## v0.4.8 / 2017-03-31
 
-  * Richiesta rimozione sottocategoria "Ranch per vacanze" da Google
+  * Rimozione sottocategoria "Ranch per vacanze" da Google
   * Aggiunta [Mappa](https://goo.gl/maps/4czT1f5KEN52)
 
 ## v0.4.7 / 2017-03-25
