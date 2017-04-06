@@ -14,11 +14,16 @@
 
   * Traduzione software gestione prenotazioni in italiano (completo al 50%)
 
+## v0.5.2 / 2017-04-06
+
+  * Modifica di tutte le foto non brandizzate con quelle brandizzate
+
 ## v0.5.1 / 2017-04-05
 
   * Fix: Integrato [Video YouTube](https://youtu.be/ZbGqc4U3tWs) in Home
   * Brandizzazione di tutte le foto
   * Registrazione, attivazione e configurazione 2° dominio [CasaMargheritaFasano.com](http://www.CasaMargheritaFasano.com)
+  * Compressione ed alleggerimento delle immagini brandizzate per un più rapido caricamento dalle pagine web
   * Upload di tutte le foto brandizzate
 
 ## v0.5.0 / 2017-04-04
