@@ -2,8 +2,6 @@
 
 ### Correzioni di bug
 
-  * Separare sito in italiano da sito in inglese con inserimento del relativo tag lingua
-
 ### Correzioni di sviluppo
 
 ### Miglioramenti del sito
@@ -17,6 +15,7 @@
 ## v0.5.3 / 2017-04-07
 
   * Realizzazione sito inglese su 2° dominio [CasaMargheritaFasano.com](http://www.CasaMargheritaFasano.com)
+  * Separato sito in italiano da sito in inglese con inserimento del relativo tag lingua
 
 ## v0.5.2 / 2017-04-06
 
