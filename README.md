@@ -14,9 +14,14 @@
 
   * Traduzione software gestione prenotazioni in italiano (completo al 50%)
 
+## v0.5.3 / 2017-04-07
+
+  * Realizzazione sito inglese su 2° dominio [CasaMargheritaFasano.com](http://www.CasaMargheritaFasano.com)
+
 ## v0.5.2 / 2017-04-06
 
   * Modifica di tutte le foto non brandizzate con quelle brandizzate
+  * Realizzazione sito inglese su 2° dominio [CasaMargheritaFasano.com](http://www.CasaMargheritaFasano.com)
 
 ## v0.5.1 / 2017-04-05
 
