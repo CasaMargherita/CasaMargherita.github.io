@@ -10,7 +10,17 @@
 
 ### Terminare
 
-  * Traduzione software gestione prenotazioni in italiano (completo al 50%)
+  * Traduzione software gestione prenotazioni in italiano (completo al 60%)
+
+## v0.5.6 / 2017-04-12
+
+  * Aggiunte recensioni e testimonianze
+
+## v0.5.5 / 2017-04-10
+
+  * Creata Pagina [Facebook](https://fb.me/CasaMargheritaF)
+  * Installazione e configurazione [Jetpack](https://github.com/Automattic/Jetpack)
+  * Installazione e configurazione avanzato sistema di protezione anti-hacker e firewall con intelligenza artificiale ed analisi euristica [Lombardit.IT - Information Technology Security System™](http://www.L1T.IT)
 
 ## v0.5.4 / 2017-04-08
 
@@ -49,13 +59,13 @@
 
 ## v0.4.7 / 2017-03-25
 
-  * Iscrizione a [Instagram](https://www.instagram.com/CasaMargheritaF)
-  * Iscrizione a [Twitter](https://twitter.com/CasaMargheritaF)
+  * Creata Pagina [Instagram](https://www.instagram.com/CasaMargheritaF)
+  * Creata Pagina [Twitter](https://twitter.com/CasaMargheritaF)
 
 ## v0.4.6 / 2017-03-21
 
   * Ricevuto codice d'attivazione attività da Google
-  * Registrazione a [Google+](https://plus.google.com/115675393379545634810)
+  * Creata Pagina [Google+](https://plus.google.com/115675393379545634810)
   * Inserimento attività nel network degli inserzionisti di Google
   * Aggiunta P.IVA 02511660744
   * Aggiunta [favicon.ico](https://www.casamargheritafasano.it/favicon.ico)
@@ -99,6 +109,7 @@
   * Aggiornato il tema
   * Eseguito backup database
   * Richiesta validazione scheda attività a [Google](https://www.google.it)
+  * Creazione inoltro email ed esecuzione test
 
 ## v0.3.6 / 2017-03-01
 
@@ -127,6 +138,7 @@
 
 ## v0.3.0 / 2017-02-03 ([@Giando](https://GitHub.com/Giando))
 
+  * Aggiunto [ChangeLog](/README.md)
   * Creato nuovo account [Aruba](http://www.aruba.it) per trasferimento dominio per completa gestione sito
 
 ```
