@@ -12,9 +12,14 @@
 
   * Traduzione software gestione prenotazioni in italiano (completo al 60%)
 
+## v0.5.7 / 2017-04-14
+
+  * Creata sitemap [italiana](https://www.casamargheritafasano.it/sitemap_index.xml)
+  * Creata sitemap [inglese](https://www.casamargheritafasano.it/en/sitemap_index.xml)
+
 ## v0.5.6 / 2017-04-12
 
-  * Aggiunte recensioni e testimonianze
+  * Installazione e configurazione plugin per gestione recensioni e testimonianze
 
 ## v0.5.5 / 2017-04-10
 
@@ -98,7 +103,7 @@
 ## v0.4.1 / 2017-03-06
 
   * Aggiunto [Feed Rss](https://www.casamargheritafasano.it/feed/rss)
-  * Aggiunto robots.txt
+  * Aggiunto [robots.txt](https://www.casamargheritafasano.it/robots.txt)
   * Corretta ora locale (UTC +1)
   * Installazione e configurazione pixel di monitoraggio di Google
 
