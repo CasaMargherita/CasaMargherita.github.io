@@ -12,6 +12,16 @@
 
   * Traduzione software gestione prenotazioni in italiano (completo al 60%)
 
+## v0.5.9 / 2017-04-20
+
+  * Inviata richiesta d'iscrizione a [akvillas.com](http://akvillas.com)
+  * Inviata richiesta d'iscrizione a [jamesvillas.co.uk](http://jamesvillas.co.uk)
+  * Inviata richiesta d'iscrizione a [homeaway.co.uk](http://homeaway.co.uk)
+
+## v0.5.8 / 2017-04-19
+
+  * Verifica posizionamento sito [inglese](http://www.CasaMargheritaFasano.com)
+
 ## v0.5.7 / 2017-04-14
 
   * Creata sitemap [italiana](https://www.casamargheritafasano.it/sitemap_index.xml)
